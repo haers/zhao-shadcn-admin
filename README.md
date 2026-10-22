@@ -1,5 +1,7 @@
 # Shadcn Admin Dashboard
 
+> 本 Fork 的中文介绍、体验截图与使用说明：[README.zh-CN.md](README.zh-CN.md)。以下保留上游 README 正文。
+
 Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.
 
 ![alt text](public/images/shadcn-admin.png)
